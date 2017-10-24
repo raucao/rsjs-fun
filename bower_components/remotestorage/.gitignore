@@ -1,0 +1,11 @@
+*~
+\#*
+.#*
+*.swp
+node_modules
+*.log
+server/server-state
+server-state
+doc/code
+doc/_build
+/remotestorage*.js

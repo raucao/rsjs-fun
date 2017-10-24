@@ -1,0 +1,23 @@
+{
+  "name": "rsfun",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack --progress -p",
+    "watch": "webpack --progress --watch"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "remotestoragejs": "github:remotestorage/remotestorage.js#bugfix/1034-node_vs_browser"
+  },
+  "devDependencies": {
+    "babel-core": "^6.26.0",
+    "babel-loader": "^7.1.2",
+    "babel-preset-env": "^1.6.1",
+    "bower": "^1.8.2",
+    "webpack": "^3.8.1"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "name": "remotestorage",
+  "version": "1.0.0-rc1",
+  "main": [
+    "./release/remotestorage.js"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/remotestorage/remotestorage.js",
+  "keywords": [
+    "localstorage",
+    "indexeddb",
+    "storage",
+    "offline",
+    "no-backend",
+    "unhosted",
+    "offline-first"
+  ],
+  "_release": "1.0.0-rc1",
+  "_resolution": {
+    "type": "version",
+    "tag": "v1.0.0-rc1",
+    "commit": "7f8e3f2d2dd793d5a7c332501b74636a4acb8202"
+  },
+  "_source": "https://github.com/remotestorage/remotestorage.js.git",
+  "_target": "v1.0.0-rc1",
+  "_originalSource": "remotestorage",
+  "_direct": true
+}
